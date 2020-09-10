@@ -65,7 +65,7 @@ package tests {
         }
 
         /**
-         * パラメーt－アガ全て偽でない場合にAssert失敗と判定します
+         * パラメーターが全て偽でない場合にAssert失敗と判定します
          * @param ...args
          */
         public static function areFalse(... args:Array):void {
